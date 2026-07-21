@@ -1,0 +1,70 @@
+{
+  "name": "EchoMusic-org 插件源",
+  "homepage": "https://github.com/EchoMusic-org/Plugin-Store",
+  "plugins": [
+    {
+      "id": "Lyrics-bridge",
+      "name": "灵动岛歌词",
+      "description": "仿灵动岛歌词插件",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/Lyrics-bridge",
+      "homepage": "https://github.com/EchoMusic-org/Lyrics-bridge",
+      "tags": [
+        "WinIsland",
+        "lyrics",
+        "server"
+      ]
+    },
+    {
+      "id": "Record-player",
+      "name": "唱片播放器",
+      "description": "仿酷狗唱片播放器",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/Record-player",
+      "homepage": "https://github.com/EchoMusic-org/Record-player",
+      "tags": [
+        "beautify"
+      ]
+    },
+    {
+      "id": "channel-wander",
+      "name": "频道漫游",
+      "description": "频道漫游，无限发现音乐",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/channel-wander",
+      "homepage": "https://github.com/EchoMusic-org/channel-wander",
+      "tags": [
+        "wander"
+      ]
+    },
+    {
+      "id": "player-frontend",
+      "name": "3D歌词",
+      "description": "仿Mineradio歌词页",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/player-frontend",
+      "homepage": "https://github.com/EchoMusic-org/player-frontend",
+      "tags": [
+        "player",
+        "lyrics"
+      ]
+    },
+    {
+      "id": "folia-style",
+      "name": "Folia 歌词",
+      "description": "基于 Folia 的歌词可视化插件",
+      "author": "Oneday5799、xiaotian2333",
+      "path": "folia-style",
+      "repo": "https://github.com/EchoMusic-org/folia-style",
+      "homepage": "https://github.com/EchoMusic-org/folia-style",
+      "tags": [
+        "player",
+        "lyrics",
+        "lyric-effects"
+      ]
+    }
+  ]
+}
