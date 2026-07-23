@@ -65,6 +65,18 @@
         "lyrics",
         "lyric-effects"
       ]
+    },
+    {
+      "id": "KuGouMusicApi-bridge",
+      "name": "KuGouMusicApi-bridge",
+      "description": "提供KuGouMusicApi接口，监听17197端口",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/KuGouMusicApi-bridge",
+      "homepage": "https://github.com/EchoMusic-org/KuGouMusicApi-bridge",
+      "tags": [
+        "server"
+      ]
     }
   ]
 }
