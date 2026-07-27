@@ -77,6 +77,19 @@
       "tags": [
         "server"
       ]
+    },
+    {
+      "id": "github-accelerate",
+      "name": "GitHub 加速",
+      "description": "自动检测可用的 GitHub 加速地址并接管主程序设置",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/github-accelerate",
+      "homepage": "https://github.com/EchoMusic-org/github-accelerate",
+      "tags": [
+        "github",
+        "accelerate"
+      ]
     }
   ]
 }
