@@ -103,6 +103,18 @@
         "radio",
         "fm"
       ]
+    },
+    {
+      "id": "music-card-share",
+      "name": "歌曲卡片分享",
+      "description": "优雅的歌曲卡片分享",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/music-card-share",
+      "homepage": "https://github.com/EchoMusic-org/music-card-share",
+      "tags": [
+        "share"
+      ]
     }
   ]
 }
