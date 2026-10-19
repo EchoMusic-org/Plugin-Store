@@ -115,6 +115,18 @@
       "tags": [
         "share"
       ]
+    },
+    {
+      "id": "volume-wheel",
+      "name": "滚轮音量调节",
+      "description": "把鼠标移到主播放栏或歌词页底部的音量按钮上滚动滚轮，即可调节音量",
+      "author": "xiaotian2333",
+      "path": "",
+      "repo": "https://github.com/EchoMusic-org/volume-wheel",
+      "homepage": "https://github.com/EchoMusic-org/volume-wheel",
+      "tags": [
+        "volume"
+      ]
     }
   ]
 }
